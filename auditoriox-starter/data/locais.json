@@ -16,7 +16,11 @@
     "preco_min": 900,
     "amenities": "Projetor,Som,Ar-condicionado,Wi-Fi,Acessibilidade",
     "fotos": "https://cdn.greatsoftwares.com.br/arquivos/paginas_editor/99373-e4e220a7ff4aa5173bfb64f8d2467443.jpg|https://cdn.greatsoftwares.com.br/arquivos/paginas_editor/99373-4efb573978ca39a678cea3411e9dc364.jpg",
-    "simplybook_url": "https://SEUSUB.simplybook.it/v2/#book/service/42",
+
+    "simplybook_company_url": "https://auditoriox.simplybook.me",
+    "simplybook_service_id": 42,
+    "simplybook_provider_id": 2,
+
     "infinitepay_url": "https://pay.infinitepay.io/EXEMPLO",
     "whatsapp": "+55 11 99999-9999"
   },
@@ -37,7 +41,11 @@
     "preco_min": 1200,
     "amenities": "Palco,Iluminação,Streaming,Ar-condicionado,Wi-Fi",
     "fotos": "https://cdn.greatsoftwares.com.br/arquivos/paginas_editor/99373-e4e220a7ff4aa5173bfb64f8d2467443.jpg|https://cdn.greatsoftwares.com.br/arquivos/paginas_editor/99373-4efb573978ca39a678cea3411e9dc364.jpg",
-    "simplybook_url": "https://SEUSUB.simplybook.it/v2/#book/service/77",
+
+    "simplybook_company_url": "https://auditoriox.simplybook.me",
+    "simplybook_service_id": 77,
+    "simplybook_provider_id": 2,
+
     "infinitepay_url": "https://pay.infinitepay.io/EXEMPLO2",
     "whatsapp": "+55 11 98888-8888"
   } 
