@@ -1,0 +1,14 @@
+{
+  "name": "auditoriox-locais",
+  "type": "module",
+  "scripts": {
+    "seed:locais": "tsx tools/seed-from-locais-json.ts auditoriox-starter/data/locais.json"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.15.7",
+    "typescript": "^5.6.2"
+  }
+}
